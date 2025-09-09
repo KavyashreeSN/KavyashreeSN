@@ -26,7 +26,7 @@ I'm **Kavyashree S N**, a passionate developer 🚀 with a strong interest in bu
 Currently pursuing **B.E. in Computer Science (Batch '28)**, I enjoy problem-solving and constantly exploring new technologies to expand my skill set.  
 
 - 💻 **Focus Areas:** Data Structures & Algorithms | Full-Stack Development | Blockchain  
-- 🌱 **Exploring:** Motoko | PostgreSQL | Open Source Contributions     
+- 🌱 **Exploring:** Motoko | Open Source Contributions     
 - ✨ **What drives me:** The thrill of solving real-world problems, collaborating with like-minded peers, and creating solutions that make an impact  
 - 🌍 **Beyond coding:** I enjoy reading tech blogs, contributing to open-source, and mentoring peers in DSA & coding concepts  
 - ⚡ **Fun fact:** I believe consistency beats intensity — one step at a time leads to big achievements!  
