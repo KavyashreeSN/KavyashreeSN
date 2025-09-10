@@ -55,7 +55,7 @@ Currently pursuing **B.E. in Computer Science (Batch '28)**, I enjoy problem-sol
 ### 🔹 [D-Fauchet](https://github.com/KavyashreeSN/D-Fauchet-)  
 <p>
   <b>Tech Stack:</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" height="25"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" height="25"/>
   <img src="https://img.shields.io/badge/Motoko-black?style=flat&logo=internet-computer&logoColor=white" height="25"/>
 </p>  
 
@@ -70,7 +70,7 @@ Currently pursuing **B.E. in Computer Science (Batch '28)**, I enjoy problem-sol
 ### 🔹 [Dbank](https://github.com/KavyashreeSN/Dbank)  
 <p>
   <b>Tech Stack:</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres" height="25"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" height="25"/>
   <img src="https://img.shields.io/badge/Motoko-black?style=flat&logo=internet-computer&logoColor=white" height="25"/>
 </p>  
 
